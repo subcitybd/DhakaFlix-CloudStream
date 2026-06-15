@@ -1,8 +1,8 @@
 {
-    "name": "Redowan's BDIX repository",
-    "description": "Redowan's BDIX repository",
+    "name": "DhakaFlix Repository",
+    "description": "DhakaFlix BDIX Extensions",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/plugins.json"
+        "https://raw.githubusercontent.com/subcitybd/DhakaFlix-CloudStream/master/plugins.json"
     ]
 }
