@@ -1,9 +1,7 @@
-[
-  {
-    "internalName": "BdixDhakaFlix",
-    "name": "DhakaFlix",
-    "url": "https://github.com/subcitybd/DhakaFlix-CloudStream/releases/download/v20/BdixDhakaFlix.cs3",
-    "status": 1,
-    "version": 20
-  }
-]
+{
+  "internalName": "BdixDhakaFlix",
+  "name": "DhakaFlix",
+  "url": "https://github.com/subcitybd/DhakaFlix-CloudStream/releases/download/v21/BdixDhakaFlix.cs3",
+  "status": 1,
+  "version": 21
+}
